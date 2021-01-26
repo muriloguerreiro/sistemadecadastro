@@ -54,6 +54,6 @@ O projeto permite a realização de quatro funcionalidades básicas:
 ### Edição:
 ![Página de Edição](/assets/update_page.png "Página de Edição")
 
-## Licensa
+## Licença
 
-O código desse projeto está licensiado com uma Licensa MIT.
+O código desse projeto está licensiado com uma Licença MIT.
