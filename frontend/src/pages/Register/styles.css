@@ -1,0 +1,61 @@
+form {
+    padding-top: 26px;
+    padding-left: 19px;   
+}
+
+label {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: #000;
+}
+  
+input {
+    margin-bottom: 13px;
+    width: 30%;
+    height: 38px;
+
+    background-color: #dddddd;
+    border: none;
+
+    display: block;
+}
+
+.input-container {
+    display: inline-block;
+    width: 22.5%;
+    margin-right: 0.9%;
+}
+
+.input-container2 {
+    display: inline-block;
+    width: 6.6%;
+}
+
+.input-container .input-city {
+    width: 100%;
+}
+
+.input-container2 .input-uf {
+    width: 100%;
+}
+
+.submit-button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+
+    padding: 6px 5px 6px 5px;
+    margin-top: 30px;
+    
+    background-color: rgb(35, 43, 42, 0.78);
+    color: #FFF;
+    text-decoration: none;
+    border-style: none;
+    display: block;
+}
